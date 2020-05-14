@@ -1,0 +1,2 @@
+# centrifugo-example
+running centrifugo
