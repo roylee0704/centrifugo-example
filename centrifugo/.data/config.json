@@ -1,5 +1,14 @@
 {
+    "admin": true,
+    "admin_password": "password",
+    "admin_secret": "secret",
+    "debug": true,
+    "anonymous": true,
     "v3_use_offset": true,
-    "token_hmac_secret_key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmb28iOiJiYXIiLCJpYXQiOjE1ODk0NDI3Mjh9.fN_KOKH2yOc1Fp2QcMaYd2z8-LxVTg7My1kSBLMUrPs",
+    "prometheus": true,
+    "graphite": true,
+    "graphite_host": "localhost",
+    "graphite_port": 2003,
+    "token_hmac_secret_key": "shhhhh",
     "api_key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmb28iOiJiYXIiLCJpYXQiOjE1ODk0NDI3ODh9.03oCkrDVT_HGMsEaIsu1q2JsSRGq5rayk-WbXhRcvtY"
 }
