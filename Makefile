@@ -12,3 +12,6 @@ publisher_2:
 
 subscriber:
 	TOKEN=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmb28iOiJiYXIiLCJpYXQiOjE1ODk0NTI3Mjd9.jEpIsjLwFfRU_dkjtH6m-4MsUUqXCnLKpqJu1cvILa0 CHANNEL_ID=chat node subscriber
+
+ubersub:
+	EMAIL=bakar@demo.com PASSWORD=abcd1234 node uber/subscriber
